@@ -30,14 +30,17 @@
  🏃 I'm Learning all about Serverless websites
   </li>
   <li>
- 📫 How to reach me: ```&lt;Athamov Abdullox#9971&gt;```
+
   </li>
   <li>
  ⚡ Fun fact: I hate zoom calls after University online lectures
   </li>
 </ul>
 
-
+ ## 📫 How to reach me on Discord:
+ ```
+        $ Athamov Abdullox#9971
+ ```
 ## Install
 
 ```
