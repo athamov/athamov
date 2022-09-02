@@ -10,8 +10,8 @@
   <img align="left" alt="Athamov's LinkedIN" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
 
-
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&usqp=CAU" />
+<div>
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on 
@@ -20,3 +20,4 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
+</div>
