@@ -48,7 +48,7 @@
 <code><img height=20 src="https://raw.githubusercontent.com/athamov/athamov/main/.github/images/typescript-svgrepo-com.svg" alt="css"/></code>
 <code><img height=20 src="https://raw.githubusercontent.com/athamov/athamov/main/.github/images/firebase-1-logo-svgrepo-com.svg" alt="css"/></code>
 
-I am from <code><img height=20 src="https://raw.githubusercontent.com/athamov/athamov/main/.github/images/uzbekistan-svgrepo-com.svg" alt="css"/></code>
+I am from <code><img height=50 src="https://raw.githubusercontent.com/athamov/athamov/main/.github/images/uzbekistan-svgrepo-com.svg" alt="css"/></code>
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&usqp=CAU" />
