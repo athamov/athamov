@@ -36,16 +36,20 @@
  ⚡ Fun fact: I hate zoom calls after University online lectures
   </li>
 </ul>
-# Copy to clipboard [![Build Status](https://travis-ci.org/sudodoki/copy-to-clipboard.svg?branch=master)](https://travis-ci.org/sudodoki/copy-to-clipboard)
+
+
+## Install
+
+```
+$ npm install copy-text-to-clipboard
+```
+
+## Usage
+
 ```js
-import copy from 'copy-to-clipboard';
+import copy from 'copy-text-to-clipboard';
 
-copy('Text');
-
-// Copy with options
-copy('Text', {
-  debug: true,
-  message: 'Press #{key} to copy',
+button.addEventListener('click', () => {
+	copy('🦄🌈');
 });
 ```
-`copy(text: string, options: object): boolean` &mdash; tries to copy text to clipboard. Returns `true` if no additional keystrokes were required from user (so, `execCommand`, IE's `clipboardData` worked) or `false`.
