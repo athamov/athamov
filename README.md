@@ -30,17 +30,12 @@
  🏃 I'm Learning all about Serverless websites
   </li>
   <li>
-
+    📫How to reach me --best way <a href="https://www.linkedin.com/in/abdullox-athamov/">
+      <img align="left" alt="Athamov's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
   </li>
   <li>
  ⚡ Fun fact: I hate zoom calls after University online lectures
   </li>
 </ul>
 
- ### 📫 How to reach me on Discord:
- ```
-        $ Athamov Abdullox#9971
- ```
-Or you can use Telegram <a href="https://t.me/athmov00">
-      <img align="left" alt="Athamov's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
-    </a>
