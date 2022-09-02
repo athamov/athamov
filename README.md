@@ -11,29 +11,12 @@
 </a>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&usqp=CAU" />
-<ul>
-  <li>
-    - 🔭 I’m currently working on
-  </li>
-  <li>
-    - 🌱 I’m currently learning
-  </li>  
-  <li>
-    - 👯 I’m looking to collaborate on 
-  </li>  
-  <li>
-    - 🤔 I’m looking for help with  
-  </li>  
-  <li>
-    - 💬 Ask me about   
-  </li>
-  <li>
-    - 📫 How to reach me: 
-  </li>
-  <li>
-    - 😄 Pronouns: 
-  </li>
-  <li>
-    - ⚡ Fun fact: 
-  </li>
-</ul>
+<div>
+ 🔭 I’m currently working on Javascript, Typescript, Html/Css, Tailwind, React, Express, Mongodb(unnormilized structure)
+ 🌱 I’m currently learning AWS Teachnologies
+ 👯 I’m looking to collaborate with Astrum Learners
+ 🤔 I’m looking for help with Realtime Chats
+ 🏃 I'm Learning all about Serverless websites
+ 📫 How to reach me: &lt;clipboard-copy&gt;Athamov Abdullox#9971
+ ⚡ Fun fact: I hate zoom calls after University online lectures
+</div>
