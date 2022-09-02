@@ -37,15 +37,10 @@
   </li>
 </ul>
 
- ## 📫 How to reach me on Discord:
+ ### 📫 How to reach me on Discord:
  ```
         $ Athamov Abdullox#9971
  ```
-## Install
-
-```
-$ npm install copy-text-to-clipboard
-```
 
 ## Usage
 
