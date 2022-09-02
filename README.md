@@ -36,4 +36,15 @@
  ⚡ Fun fact: I hate zoom calls after University online lectures
   </li>
 </ul>
+```js
+import copy from 'copy-to-clipboard';
 
+copy('Text');
+
+// Copy with options
+copy('Text', {
+  debug: true,
+  message: 'Press #{key} to copy',
+});
+```
+`copy(text: string, options: object): boolean` &mdash; tries to copy text to clipboard. Returns `true` if no additional keystrokes were required from user (so, `execCommand`, IE's `clipboardData` worked) or `false`.
