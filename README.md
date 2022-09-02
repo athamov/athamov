@@ -30,7 +30,7 @@
  🏃 I'm Learning all about Serverless websites
   </li>
   <li>
- 📫 How to reach me: &lt;Athamov Abdullox#9971&gt;copy('Text');
+ 📫 How to reach me: `&lt;Athamov Abdullox#9971&gt;`
   </li>
   <li>
  ⚡ Fun fact: I hate zoom calls after University online lectures
