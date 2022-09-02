@@ -1,4 +1,3 @@
-<div style="display:flex; flex-direction:row;">
   <div>
     ### Hi there 👋
     <a href="https://t.me/athmov00">
@@ -14,7 +13,6 @@
     <div>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&usqp=CAU" />
   </div>
-</div>
 <ul>
   <li>
  🔭 I’m currently working on Javascript, Typescript, Html/Css, Tailwind, React, Express, Mongodb(unnormilized structure)
@@ -32,7 +30,7 @@
  🏃 I'm Learning all about Serverless websites
   </li>
   <li>
- 📫 How to reach me: &lt;clipboard-copy&gt;Athamov Abdullox#9971
+ 📫 How to reach me: &lt;Athamov Abdullox#9971&gt;
   </li>
   <li>
  ⚡ Fun fact: I hate zoom calls after University online lectures
