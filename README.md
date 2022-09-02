@@ -37,10 +37,6 @@
   </li>
 </ul>
 ```js
-import copy from 'copy-to-clipboard';
-
-copy('Text');
-
 // Copy with options
 copy('Text', {
   debug: true,
