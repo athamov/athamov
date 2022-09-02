@@ -36,7 +36,12 @@
  ⚡ Fun fact: I hate zoom calls after University online lectures
   </li>
 </ul>
+# Copy to clipboard [![Build Status](https://travis-ci.org/sudodoki/copy-to-clipboard.svg?branch=master)](https://travis-ci.org/sudodoki/copy-to-clipboard)
 ```js
+import copy from 'copy-to-clipboard';
+
+copy('Text');
+
 // Copy with options
 copy('Text', {
   debug: true,
