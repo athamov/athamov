@@ -36,4 +36,7 @@
  ⚡ Fun fact: I hate zoom calls after University online lectures
   </li>
 </ul>
+
+<code><img src="https://raw.githubusercontent.com/athamov/athamov/main/.github/images/css-svgrepo-com.svg" alt="css"/></code>
+ 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&usqp=CAU" />
